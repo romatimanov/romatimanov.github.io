@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[271],{4271:(e,a,c)=>{e.exports=c.p+"static/media/horror.ecea4f249ca21fd25343.png"}}]);

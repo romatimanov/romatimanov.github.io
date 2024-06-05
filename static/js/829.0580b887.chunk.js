@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[829],{7829:(e,c,a)=>{e.exports=a.p+"static/media/fantasy.eb4c636e190c65ec0778.png"}}]);

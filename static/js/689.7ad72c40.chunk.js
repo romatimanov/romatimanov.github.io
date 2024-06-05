@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[689],{9689:(e,a,i)=>{e.exports=i.p+"static/media/crime.d227f6ab6a4e213af125.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[628],{6628:(e,a,c)=>{e.exports=c.p+"static/media/romance.ab516e0ac34a15744e7f.png"}}]);

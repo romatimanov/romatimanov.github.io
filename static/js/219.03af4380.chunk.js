@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[219],{8219:(e,i,a)=>{e.exports=a.p+"static/media/scifi.0216aee80511ba95d774.png"}}]);
