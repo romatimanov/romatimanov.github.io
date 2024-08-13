@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[810],{7810:(e,a,i)=>{e.exports=i.p+"static/media/tv-movie.a76d9b21fca61a77dd2f.png"}}]);

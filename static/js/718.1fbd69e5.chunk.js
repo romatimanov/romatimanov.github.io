@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[718],{3718:(e,a,c)=>{e.exports=c.p+"static/media/drama.a3486e0e0cc72954e59a.png"}}]);

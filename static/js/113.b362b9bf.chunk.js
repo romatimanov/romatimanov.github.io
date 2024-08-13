@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[113],{4113:(e,a,i)=>{e.exports=i.p+"static/media/animation.803082b5aff68733b728.png"}}]);

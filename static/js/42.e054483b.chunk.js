@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[42],{2042:(e,c,i)=>{e.exports=i.p+"static/media/music.5ecb5b632d4e8ccf5bb9.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[923],{3923:(e,a,c)=>{e.exports=c.p+"static/media/family.1617c10dd6b1fce6d24a.png"}}]);

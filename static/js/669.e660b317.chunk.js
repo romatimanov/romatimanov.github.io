@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcinema_guide=self.webpackChunkcinema_guide||[]).push([[669],{8669:(e,s,a)=>{e.exports=a.p+"static/media/stand-up.e1fe231db1cd52b418e4.png"}}]);
